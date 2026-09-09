@@ -72,4 +72,4 @@ Here is the complete index of the solved problems in this repository along with 
 
 ---
 
-*Every file in this repository represents a lesson or a specific practical problem solved during my journey in this course.*
+*Every file in this repository represents a specific practical problem solved during my journey in this course.*
