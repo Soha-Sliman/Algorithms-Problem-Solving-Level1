@@ -1,6 +1,6 @@
 # C++ Algorithms & Problem Solving - Level 1
 
-This repository contains my solutions for the Algorithms & Problem-Solving – Level 1 course provided by ProgrammingAdvices (Eng. Mohammed Abu-Hadhoud).
+This repository contains my solutions for the Algorithms & Problem-Solving – Level 1 course provided by ProgrammingAdvices (Dr. Mohammed Abu-Hadhoud).
 
 ---
 
